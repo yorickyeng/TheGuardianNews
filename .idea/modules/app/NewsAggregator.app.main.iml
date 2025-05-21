@@ -64,6 +64,7 @@
     </content>
     <content url="file://$MODULE_DIR$/../../../app/build/generated/ksp/debug/java">
       <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ksp/debug/java" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ksp/debug/java" isTestSource="false" generated="true" />
     </content>
     <content url="file://$MODULE_DIR$/../../../app/build/generated/ksp/debug/kotlin">
       <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ksp/debug/kotlin" isTestSource="false" generated="true" />
