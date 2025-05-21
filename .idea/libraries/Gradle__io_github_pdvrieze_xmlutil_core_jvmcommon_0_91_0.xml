@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.pdvrieze.xmlutil:core-jvmcommon:0.91.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.github.pdvrieze.xmlutil" artifactId="core-jvmcommon" version="0.91.0" baseVersion="0.91.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.pdvrieze.xmlutil/core-jvmcommon/0.91.0/be7bc3f1140ea89b23b771c8e47544b1db3d907/core-jvmcommon-0.91.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.pdvrieze.xmlutil/core-jvmcommon/0.91.0/b4fdb246997f46906136f67d804ec8e892f861ec/core-jvmcommon-0.91.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.pdvrieze.xmlutil/core-jvmcommon/0.91.0/ee1a05be7d2c546e259adffa4484156f62514a4/core-jvmcommon-0.91.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.pdvrieze.xmlutil:serialization-jvm:0.91.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.github.pdvrieze.xmlutil" artifactId="serialization-jvm" version="0.91.0" baseVersion="0.91.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.pdvrieze.xmlutil/serialization-jvm/0.91.0/df77f7741d862626bba4f5ab03a7cae8c6a87eb7/serialization-jvm-0.91.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.pdvrieze.xmlutil/serialization-jvm/0.91.0/feb91cf07edebda8bebd7c033b263f73dba7bfd8/serialization-jvm-0.91.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.pdvrieze.xmlutil/serialization-jvm/0.91.0/63916106721d9beca7bb4350ef34384998ba721a/serialization-jvm-0.91.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
